@@ -29,27 +29,26 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 >Click on the below link to take you to the app. 
 
-> [Click Here]()
+> [Click Here](https://evening-lake-07984.herokuapp.com/)
 
 >Click 'Get Started' and you can enter your note header and text below. Click on the save button on the top right hand side to save your note. Once you have completed the note or no longer require it, you can delete the note using the red rubbish bin logo. 
 
 ## Visual Demo
 
-><img src="" alt="Gif of note taker in operation">
+><img src="./public/assets/note-taker.gif" alt="Gif of note taker in operation">
 
-https://drive.google.com/file/d/13CORQYWN5ec3XUoYLraOKfKJmqFfh3Zg/view
 
 ## Screen Shot
 
 >Landing Page
-><img src="" alt="Screenshot of note taker landing page">
+><img src="./public/assets/landing-page.jpg" alt="Screenshot of note taker landing page">
 
 >Note Taker Input Page
-><img src="" alt="Screenshot of note taker home page taking a note">
+><img src="./public/assets/note-page.jpg" alt="Screenshot of note taker home page taking a note">
 
 ## Generated Webpage
 
-> [Deployed webpage with Heroku]() 
+> [Deployed webpage with Heroku](https://evening-lake-07984.herokuapp.com/) 
 
 ## Built With
 
